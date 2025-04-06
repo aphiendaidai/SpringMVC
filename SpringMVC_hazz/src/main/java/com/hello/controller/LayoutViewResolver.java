@@ -7,6 +7,8 @@ import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.View;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
+
+// CLASS NÀY KHÔNG CÓ TÁC DỤNG, QUÊN XÓA
 public class LayoutViewResolver extends InternalResourceViewResolver {
     
     @Override
